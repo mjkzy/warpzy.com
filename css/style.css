@@ -7,7 +7,7 @@ body {
     padding: 0;
     height: 100%;
     width: 100%;
-    left:0;
+    left: 0;
     right: 0;
     top: 0;
     bottom: 0;
@@ -40,9 +40,9 @@ main, body, html {
     height: 100vh;
     color: #fff;
     background-image: url("../images/background.gif");
-    background-position: center; /* Center the image */
-    background-repeat: no-repeat; /* Do not repeat the image */
-    background-size: cover; /* Resize the background image to cover the entire container */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     position: relative;
 }
 
@@ -74,13 +74,11 @@ label {
         font-family: "Lato", Arial, sans-serif;
         font-size: 40px;
     }
-
     .textstuff h2 {
         font-family: "Lato", Arial, sans-serif;
         font-size: 20px;
         font-weight: 300;
     }
-
     button, a.btn {
         font-family: "Lato", Arial, sans-serif;
         font-size: 1.25rem;
